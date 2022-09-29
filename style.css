@@ -1,7 +1,7 @@
 * {
     padding: 0;
     margin: 0;
-    background-color: #ffc8dd;
+    background-color: #dda15e;
 }
 
 #heading {
@@ -41,7 +41,7 @@ hr {
 
 footer,
 p {
-    background-color: #ffafcc;
+    background-color: #bc6c25;
     font-family: 'Times New Roman', Times, serif;
     font-size: 20px;
 }
