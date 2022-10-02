@@ -1,0 +1,62 @@
+* {
+    padding: 0;
+    margin: 0;
+    background-color: #a2d2ff;
+}
+
+#heading {
+    text-align: center;
+}
+
+#main_heading {
+    width: 450px;
+    margin: 14px;
+}
+
+#bismillah {
+    width: 370px;
+    margin-bottom: 10px;
+}
+
+p {
+    text-align: center;
+}
+
+#content {
+    text-align: center;
+}
+
+.surah {
+    width: 180px;
+}
+
+#zipimg{
+    width: 450px;
+    margin-bottom: 8px;
+}
+
+hr {
+    margin: 1px;
+}
+
+footer,
+p {
+    background-color: beige;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+#zip-a{
+    text-align: center;
+}
+
+.zoom {
+    padding: 0px;
+    background-color: rgba(0, 0, 0, 0);
+    transition: transform .2s; /* Animation */
+    margin: 0 auto;
+  }
+  
+  .zoom:hover {
+    transform: scale(1.2); /* (120% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+  }
