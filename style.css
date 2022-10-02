@@ -45,7 +45,7 @@ p {
     font-family: 'Times New Roman', Times, serif;
     font-size: 20px;
     user-select: none;
-    width: 100vh;
+    width: 100vw;
 }
 
 #zip-a{
