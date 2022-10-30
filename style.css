@@ -30,6 +30,11 @@ p {
     width: 500px;
 }
 
+.surah {
+    width: 180px;
+    height: 180px;
+}
+
 #zipimg{
     width: 450px;
     margin-bottom: 8px;
